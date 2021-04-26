@@ -2,4 +2,7 @@
 
 
 
+![WhiteHair-H GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=kacho_ga&show_icons=true)
+
+
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=7AB53F)
