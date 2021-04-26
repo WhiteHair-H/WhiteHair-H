@@ -13,5 +13,7 @@
 ![issue badge](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=JavaScript&logoColor=white")
 ![issue badge](https://img.shields.io/badge/-Python-red?style=flat-square&logo=Python&logoColor=white")
 </div>
+
 <br/>
+
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=7AB53F)
