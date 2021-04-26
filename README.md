@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color:A3DCBE,&height=300&section=header&text=Jinwoo%20Ha&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color:E3A6AE,&height=300&section=header&text=Jinwoo%20Ha&fontSize=90)
