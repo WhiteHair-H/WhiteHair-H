@@ -6,12 +6,12 @@
 
 
 
-![issue badge](https://img.shields.io/badge/-HTML5-blue?style=flat-square&logo=HTML5&logoColor=white?style=centerme")
-![issue badge](https://img.shields.io/badge/-SQL-yellowgreen?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white?style=centerme")
-![issue badge](https://img.shields.io/badge/-C%23-blueviolet?style=flat-square&logo=Visual%20Studio&logoColor=white?style=centerme")
-![issue badge](https://img.shields.io/badge/-CSS3-orange?style=flat-square&logo=CSS3&logoColor=white?style=centerme")
-![issue badge](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=JavaScript&logoColor=white?style=centerme")
-![issue badge](https://img.shields.io/badge/-Python-red?style=flat-square&logo=Python&logoColor=white?style=centerme")
+![issue badge](https://img.shields.io/badge/-HTML5-blue?style=flat-square&logo=HTML5&logoColor=white?align=center")
+![issue badge](https://img.shields.io/badge/-SQL-yellowgreen?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white?align=center")
+![issue badge](https://img.shields.io/badge/-C%23-blueviolet?style=flat-square&logo=Visual%20Studio&logoColor=white?align=center")
+![issue badge](https://img.shields.io/badge/-CSS3-orange?style=flat-square&logo=CSS3&logoColor=white?align=center")
+![issue badge](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=JavaScript&logoColor=white?align=center")
+![issue badge](https://img.shields.io/badge/-Python-red?style=flat-square&logo=Python&logoColor=white?align=center")
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=7AB53F)
