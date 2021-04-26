@@ -6,6 +6,10 @@
 
 
 ![issue badge](https://img.shields.io/static/v1?label=<HTML>&message=<MESSAGE>&color=<blue>)
+![issue badge](https://img.shields.io/static/v1?label=<HTML>&message=<MESSAGE>&color=<blue>)
+![issue badge](https://img.shields.io/static/v1?label=<HTML>&message=<MESSAGE>&color=<blue>)
+![issue badge](https://img.shields.io/static/v1?label=<HTML>&message=<MESSAGE>&color=<blue>)
+![issue badge](https://img.shields.io/static/v1?label=<HTML>&message=<MESSAGE>&color=<blue>)
 
 
 
