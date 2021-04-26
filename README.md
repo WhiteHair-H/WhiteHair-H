@@ -8,10 +8,9 @@
 
 ![issue badge](https://img.shields.io/badge/-HTML5-blue?style=flat-square&logo=HTML5&logoColor=white")
 ![issue badge](https://img.shields.io/badge/-SQL-yellowgreen?style=flat-square&logo=SQLite&logoColor=white")
-![issue badge](https://img.shields.io/badge/-C%23-blueviolet)
+![issue badge](https://img.shields.io/badge/-C%23-blueviolet?style=flat-square&logo=Visual Studio&logoColor=white")
 ![issue badge](https://img.shields.io/badge/-CSS5-orange)
 ![issue badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=Vimeo&logoColor=white")
-
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=7AB53F)
