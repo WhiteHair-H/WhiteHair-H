@@ -5,7 +5,8 @@
 ![WhiteHair-H GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=kacho_ga&show_icons=true)
 
 
-![issue badge](https://img.shields.io/static/v1?label=<HTML>&color=<blue>)
+
+![issue badge](https://img.shields.io/badge/-HTML-blue)
 ![issue badge](https://img.shields.io/static/v1?label=<HTML>&message=<MESSAGE>&color=<blue>)
 ![issue badge](https://img.shields.io/static/v1?label=<HTML>&message=<MESSAGE>&color=<blue>)
 ![issue badge](https://img.shields.io/static/v1?label=<HTML>&message=<MESSAGE>&color=<blue>)
