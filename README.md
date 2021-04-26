@@ -2,4 +2,4 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&color=04AE35)
+![footer](https://capsule-render.vercel.app/api?section=footer&color=7AB53F)
