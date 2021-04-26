@@ -11,7 +11,7 @@
 ![issue badge](https://img.shields.io/badge/-C%23-blueviolet?style=flat-square&logo=Visual%20Studio&logoColor=white")
 ![issue badge](https://img.shields.io/badge/-CSS3-orange?style=flat-square&logo=CSS3&logoColor=white")
 ![issue badge](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=JavaScript&logoColor=white")
-![issue badge](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python&logoColor=white")
+![issue badge](https://img.shields.io/badge/-Python-red?style=flat-square&logo=Python&logoColor=white")
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=7AB53F)
