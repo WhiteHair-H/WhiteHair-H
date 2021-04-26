@@ -6,11 +6,11 @@
 
 
 
-![issue badge](https://img.shields.io/badge/-HTML-blue)
-![issue badge](https://img.shields.io/static/v1?label=<HTML>&message=<MESSAGE>&color=<blue>)
-![issue badge](https://img.shields.io/static/v1?label=<HTML>&message=<MESSAGE>&color=<blue>)
-![issue badge](https://img.shields.io/static/v1?label=<HTML>&message=<MESSAGE>&color=<blue>)
-![issue badge](https://img.shields.io/static/v1?label=<HTML>&message=<MESSAGE>&color=<blue>)
+![issue badge](https://img.shields.io/badge/-HTML5-blue)
+![issue badge](https://img.shields.io/badge/-SQL-yellowgreen)
+![issue badge](https://img.shields.io/badge/-C%23-blueviolet)
+![issue badge](https://img.shields.io/badge/-CSS5-orange)
+![issue badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=Vimeo&logoColor=white")
 
 
 
