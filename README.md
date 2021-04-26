@@ -6,8 +6,8 @@
 
 
 
-![issue badge](https://img.shields.io/badge/-HTML5-blue)
-![issue badge](https://img.shields.io/badge/-SQL-yellowgreen)
+![issue badge](https://img.shields.io/badge/-HTML5-blue?style=flat-square&logo=HTML5&logoColor=white")
+![issue badge](https://img.shields.io/badge/-SQL-yellowgreen?style=flat-square&logo=Microsoft SQL Server&logoColor=white")
 ![issue badge](https://img.shields.io/badge/-C%23-blueviolet)
 ![issue badge](https://img.shields.io/badge/-CSS5-orange)
 ![issue badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=Vimeo&logoColor=white")
