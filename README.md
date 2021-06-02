@@ -2,7 +2,7 @@
 
 <br/>
 
-![WhiteHair-H GitHub stats](https://github-readme-stats.vercel.app/api?username=JinwooHa&theme=kacho_ga&show_icons=true)
+![WhiteHair-H GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinwoo_Ha&theme=kacho_ga&show_icons=true)
 
 <br/>
 
