@@ -2,8 +2,9 @@
 
 <br/>
 
+<center>
 ![WhiteHair-H GitHub stats](https://github-readme-stats.vercel.app/api?username=HaJinwoo&theme=kacho_ga&show_icons=true)
-
+</center>
 <br/>
 
 ![issue badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
