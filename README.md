@@ -58,10 +58,6 @@
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&color=7AB53F)
-
-
-
 <p align='center'>
   <a href="https://github.com/WhiteHair-H">
     <img src="https://capsule-render.vercel.app/api?section=footer&color=7AB53F"/>
