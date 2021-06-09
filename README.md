@@ -8,17 +8,16 @@
 <br/>
 
 <p align='center'>
-  <a href="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-   
+  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white/>
   </a>
-  <a href="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    
+  <a href="#demo">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
 </p>
 
- <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
- <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
- 
+
+
  
 ![issue badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![issue badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
