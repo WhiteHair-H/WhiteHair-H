@@ -6,9 +6,12 @@
   <a href="https://github.com/WhiteHair-H">
     <img src="https://github-readme-stats.vercel.app/api?username=WhiteHair-H&theme=synthwave&show_icons=true"/>
   </a>
+  <a href="https://github.com/WhiteHair-H">
+    <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteHair-H&theme=synthwave&layout=compact"/>
+  </a>
 </p>
 
-![Krushnat's github stats](https://github-readme-stats.vercel.app/api?username=krushnatkhawale&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krushnatkhawale&layout=compact)
+
 
 
 <br/>
