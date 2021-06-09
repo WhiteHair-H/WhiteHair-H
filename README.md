@@ -4,11 +4,11 @@
 
 <p align='center'>
   <a href="https://github.com/WhiteHair-H">
-    <img src="https://github-readme-stats.vercel.app/api?username=HaJinwoo&theme=kacho_ga&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=HaJinwoo&theme=synthwave&show_icons=true"/>
   </a>
 </p>
 
-![Jinwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaJinwoo&theme=synthwave&show_icons=true)
+
 
 
 <br/>
