@@ -3,17 +3,15 @@
 <br/>
 
 <p align='center'>
-  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
+  <a href="https://github.com/WhiteHair-H">
     <img src="https://github-readme-stats.vercel.app/api?username=HaJinwoo&theme=kacho_ga&show_icons=true"/>
   </a>
 </p>
 
-![WhiteHair-H GitHub stats](https://github-readme-stats.vercel.app/api?username=HaJinwoo&theme=kacho_ga&show_icons=true)
-
 <br/>
 
 <p align='center'>
-  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
+  <a href="https://github.com/WhiteHair-H">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   </a>
   <a href="#demo">
