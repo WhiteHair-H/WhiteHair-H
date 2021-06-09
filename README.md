@@ -2,6 +2,11 @@
 
 <br/>
 
+<p align='center'>
+  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
+    <img src="https://github-readme-stats.vercel.app/api?username=HaJinwoo&theme=kacho_ga&show_icons=true"/>
+  </a>
+</p>
 
 ![WhiteHair-H GitHub stats](https://github-readme-stats.vercel.app/api?username=HaJinwoo&theme=kacho_ga&show_icons=true)
 
