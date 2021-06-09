@@ -3,7 +3,7 @@
 <br/>
 
 <p align='center'>
-  <a href="#">
+  <a href="https://github.com/WhiteHair-H">
     <img src="https://github-readme-stats.vercel.app/api?username=HaJinwoo&theme=synthwave&show_icons=true"/>
   </a>
 </p>
