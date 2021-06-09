@@ -16,6 +16,7 @@
 ![issue badge](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=JavaScript&logoColor=white")
 ![issue badge](https://img.shields.io/badge/-Python-red?style=flat-square&logo=Python&logoColor=white")
 ![issue badge](https://img.shields.io/badge/-C++-purple?style=flat-square&logo=C++&logoColor=white")
+<a href="https://github.com/WhiteHair-H" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 
 <br/>
