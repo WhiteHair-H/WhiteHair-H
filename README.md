@@ -22,7 +22,7 @@
 <br/>
 
 
-<center>##Languages and Tools:</center> 
+<center>Languages and Tools:</center> 
 
 <p align='center'>
 <a href="https://github.com/WhiteHair-H">
