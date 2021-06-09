@@ -6,11 +6,13 @@
   <a href="https://github.com/WhiteHair-H">
     <img src="https://github-readme-stats.vercel.app/api?username=WhiteHair-H&theme=synthwave&show_icons=true"/>
   </a>
-  <a href="https://github.com/WhiteHair-H">
+</p>
+
+<p align='center'>
+<a href="https://github.com/WhiteHair-H">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteHair-H&theme=synthwave&layout=compact"/>
   </a>
 </p>
-
 
 
 
