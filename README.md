@@ -9,7 +9,7 @@
 
 <p align='center'>
   <a href="https://github.com/WhiteHair-H">
-    <img src="https://github.com/WhiteHair-H/MiniProject_SimpleMRP/blob/main/MRPAPP/MRPAPP/Resources/profile.jpg " width="200" height="200"/>
+    <img src="https://github.com/WhiteHair-H/MiniProject_SimpleMRP/blob/main/MRPAPP/MRPAPP/Resources/profile.jpg " width="50%" height="50%"/>
   </a>
 </p>
 
