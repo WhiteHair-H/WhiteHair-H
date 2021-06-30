@@ -7,20 +7,21 @@
 
 ## 소개
 
-<p align='center'>
+<p align='left'>
   <a href="https://github.com/WhiteHair-H">
     <img src="https://github.com/WhiteHair-H/MiniProject_SimpleMRP/blob/main/MRPAPP/MRPAPP/Resources/profile.jpg " width="40%" height="40%"/>
   </a>
 </p>
-- 이름: 하진우
-- 
-- 군필여부: 군필자
-- 
-- 취미: 테니스, 축구, 우쿠렐레, 잡지독서, 등산, *카페코딩*, 맛집탐방, 블로거, 여행
-- 
-- Email: pddana@naver.com
-- 
-- GitHub: [github.com/WhiteHair-H](https://github.com/WhiteHair-H)
+
+<p align='left'>
+  - 이름: 하진우
+  - 군필여부: 군필자
+  - 취미: 테니스, 축구, 우쿠렐레, 잡지독서, 등산, *카페코딩*, 맛집탐방, 블로거, 여행
+  - Email: pddana@naver.com
+  - GitHub: [github.com/WhiteHair-H](https://github.com/WhiteHair-H)
+</p>
+
+
 
 
 
