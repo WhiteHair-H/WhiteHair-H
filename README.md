@@ -127,7 +127,9 @@
     <img width="70%" height="50%" src="https://github.com/WhiteHair-H/StudyAspNet21/blob/main/PortFolio_Player%26Picture/Player/Login.gif">
   </a>
 </p>
+
 ------------------------------------------------------------
+
 2. API를 이용한 영화검색 WPF 제작
 - https://github.com/WhiteHair-H/MiniProjectDesktop
 
@@ -136,7 +138,9 @@
     <img width="70%" height="50%" src="https://github.com/WhiteHair-H/MiniProjectDesktop/blob/main/WpfMiniProject/NaverMovieFinderApp/Player/MiniProject1.gif">
   </a>
 </p>
+
 ------------------------------------------------------------
+
 3. WPF 통한 MRP 제작중
 - https://github.com/WhiteHair-H/MiniProject_SimpleMRP
 
