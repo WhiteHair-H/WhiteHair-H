@@ -10,6 +10,8 @@
 <p align='center'>
   <a href="https://github.com/WhiteHair-H">
     <img src="https://github.com/WhiteHair-H/MiniProject_SimpleMRP/blob/main/MRPAPP/MRPAPP/Resources/profile.jpg " width="40%" height="40%"/>
+  </a>
+  <a>
     - 이름: 하진우
     - 군필여부: 군필자
     - 취미: 테니스, 축구, 우쿠렐레, 잡지독서, 등산, *카페코딩*, 맛집탐방, 블로거, 여행
