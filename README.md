@@ -20,6 +20,8 @@
 - Email: pddana@naver.com
 - GitHub: [github.com/WhiteHair-H](https://github.com/WhiteHair-H)
 
+## GitHub Commit
+
 <p align='center'>
   <a href="https://github.com/WhiteHair-H">
     <img src="https://github-readme-stats.vercel.app/api?username=WhiteHair-H&theme=synthwave&show_icons=true"/>
