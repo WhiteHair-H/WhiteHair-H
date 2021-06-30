@@ -9,16 +9,16 @@
 
 <p align='center'>
   <a href="https://github.com/WhiteHair-H">
-    <img src="https://github.com/WhiteHair-H/MiniProject_SimpleMRP/blob/main/MRPAPP/MRPAPP/Resources/profile.jpg " width="50%" height="50%"/>
+    <img src="https://github.com/WhiteHair-H/MiniProject_SimpleMRP/blob/main/MRPAPP/MRPAPP/Resources/profile.jpg " width="40%" height="40%"/>
+    - 이름: 하진우
+    - 군필여부: 군필자
+    - 취미: 테니스, 축구, 우쿠렐레, 잡지독서, 등산, *카페코딩*, 맛집탐방, 블로거, 여행
+    - Email: pddana@naver.com
+    - GitHub: [github.com/WhiteHair-H](https://github.com/WhiteHair-H)
   </a>
 </p>
 
-- 이름: 정성민
-- 군필여부: 병역특례로 복무완료
-- 취미: 자전거, **해커톤**, 칵테일, 사격, 등산, **카페코딩**, 피아노, 달리기, 여행, 캠핑
-- Email: jspiner@naver.com
-- GitHub: [github.com/jspiner](https://github.com/jspiner)
-- LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
+
 
 
 
