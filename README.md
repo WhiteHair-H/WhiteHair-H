@@ -1,6 +1,6 @@
 <p align='center'>
   <a href="https://github.com/WhiteHair-H">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=2E97D7&fontColor=FFFFFF&height=300&section=header&text=JINWOO'S%20PROFILE&fontSize=90"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=2E97D7&fontColor=FFFFFF&height=300&section=header&text=JINWOO'S%20PROFILE&fontSize=50"/>
   </a>
 </p>
 <br/>
