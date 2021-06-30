@@ -62,10 +62,7 @@
   <a href="#demo">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   </a>
-</p>
-
-<p align='left'>
-<a href="#demo">
+  <a href="#demo">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
   <a href="#demo">
@@ -80,6 +77,10 @@
   <a href="#demo">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
   </a>
+</p>
+
+<p align='left'>
+
 </p>
 
 <br/>
