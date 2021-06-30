@@ -6,7 +6,13 @@
 <br/>
 
 ## 소개
-![프로필이미지](https://github.com/WhiteHair-H/MiniProject_SimpleMRP/blob/main/MRPAPP/MRPAPP/Resources/profile.jpg ){: width="100" height="100"}
+
+<p align='center'>
+  <a href="https://github.com/WhiteHair-H">
+    <img src="https://github.com/WhiteHair-H/MiniProject_SimpleMRP/blob/main/MRPAPP/MRPAPP/Resources/profile.jpg " width="200" height="200"/>
+  </a>
+</p>
+
 - 이름: 정성민
 - 군필여부: 병역특례로 복무완료
 - 취미: 자전거, **해커톤**, 칵테일, 사격, 등산, **카페코딩**, 피아노, 달리기, 여행, 캠핑
