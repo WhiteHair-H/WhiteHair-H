@@ -51,7 +51,7 @@
 
 <br/>
 
-## 사용 Tools
+## 사용 Tools - 명칭
 - Visual Studio
 - Visual Studio Code
 - SSMS(SQL Server Management Studio)
@@ -97,15 +97,26 @@
   </a>
 </p>
 
-<p align='left'>
+<br/>
 
-</p>
+## 사용 언어 - 명칭
+- C
+- C++
+- C#
+- HTML5
+- JAVASCRIPT
+- CSS3
+- PYTHON
+- .NET
+- SQL
+- MARKDOWN
 
 <br/>
 
 ## 학력
 - 부산세무고등학교 항만물류과 졸업(2011 ~ 2014)
 - 부경대학교 기술-서비스공학과 졸업(2014 ~ 2021)
+- 부경대학교 IoT양성과정 진행중(2021.2 ~ 2021.8.31(수료예정))
 
 
 <br/>
