@@ -16,7 +16,7 @@
 
 - 이름: 하진우
 - 군필여부: 군필자
-- 취미: 테니스, 축구, 우쿠렐레, 잡지독서, 등산, *카페코딩*, 맛집탐방, 블로거, 여행
+- 취미: 테니스, 축구, 우쿠렐레, 잡지독서, 등산, **카페코딩**, 맛집탐방, 블로거, 여행
 - Email: pddana@naver.com
 - GitHub: [github.com/WhiteHair-H](https://github.com/WhiteHair-H)
 
