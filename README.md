@@ -5,14 +5,14 @@
 </p>
 <br/>
 
-## 소개
-
+## Profile
 <p align='left'>
   <a href="https://github.com/WhiteHair-H">
     <img src="https://github.com/WhiteHair-H/MiniProject_SimpleMRP/blob/main/MRPAPP/MRPAPP/Resources/profile.jpg " width="40%" height="40%"/>
   </a>
 </p>
 
+## Intro
 <p align='left'>
   <a>
     - 이름: 하진우
