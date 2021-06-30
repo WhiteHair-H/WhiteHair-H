@@ -121,6 +121,13 @@
 ## 포트폴리오
 1. .net 통한 홈페이지 제작
 - https://github.com/WhiteHair-H/StudyAspNet21
+
+<p align='left'>
+  <a href="https://github.com/WhiteHair-H">
+    <img height="100" src="https://github.com/WhiteHair-H/MiniProject_SimpleMRP/blob/main/Player%26Picture/Picture/Setting.png">
+  </a>
+</p>
+
 2. API를 이용한 영화검색 WPF 제작
 - https://github.com/WhiteHair-H/MiniProjectDesktop
 3. WPF 통한 MRP 제작중
