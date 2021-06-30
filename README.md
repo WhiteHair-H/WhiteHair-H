@@ -31,11 +31,7 @@
 
 <br/>
 
-<p align='center'>
-  <a>Languages and Tools:
-    </a>
-</p>
-
+## Languages and Tools
 <p align='center'>
 <a href="https://github.com/WhiteHair-H">
     <img height="40" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
