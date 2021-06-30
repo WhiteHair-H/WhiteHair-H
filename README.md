@@ -119,8 +119,13 @@
 - 부경대학교 IoT양성과정 진행중(2021.2 ~ 2021.8.31(수료예정))
 
 ## 포트폴리오
-- 포트폴리오 3개이상
+1. .net 통한 홈페이지 제작
 - https://github.com/WhiteHair-H/StudyAspNet21
+2. API를 이용한 영화검색 WPF 제작
+- https://github.com/WhiteHair-H/MiniProjectDesktop
+3. WPF 통한 MRP 제작중
+- https://github.com/WhiteHair-H/MiniProject_SimpleMRP
+
 
 <br/>
 
