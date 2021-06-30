@@ -27,12 +27,6 @@
   </a>
 </p>
 
-<p align='center'>
-<a href="https://github.com/WhiteHair-H">
-    
-  </a>
-</p>
-
 <br/>
 
 <p align='center'>
