@@ -87,6 +87,13 @@
 
 <br/>
 
+## 학력
+- 부산세무고등학교 항만물류과 졸업(2011 ~ 2014)
+- 부경대학교 기술-서비스공학과 졸업(2014 ~ 2021)
+
+
+<br/>
+
 <p align='center'>
   <a href="https://github.com/WhiteHair-H">
     <img src="https://capsule-render.vercel.app/api?section=footer&color=7AB53F"/>
