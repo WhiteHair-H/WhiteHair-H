@@ -124,7 +124,7 @@
 
 <p align='left'>
   <a href="https://github.com/WhiteHair-H">
-    <img height="10%" src="https://github.com/WhiteHair-H/MiniProject_SimpleMRP/blob/main/Player%26Picture/Picture/Setting.png">
+    <img width="40%" height="40%" src="https://github.com/WhiteHair-H/MiniProject_SimpleMRP/blob/main/Player%26Picture/Picture/Setting.png">
   </a>
 </p>
 
