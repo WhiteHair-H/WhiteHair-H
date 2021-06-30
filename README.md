@@ -32,7 +32,7 @@
 <br/>
 
 ## Using Tools
-<p align='center'>
+<p align='left'>
 <a href="https://github.com/WhiteHair-H">
     <img height="40" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="40" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
@@ -49,7 +49,7 @@
 
 ## Using Languages
 
-<p align='center'>
+<p align='left'>
   <a href="https://github.com/WhiteHair-H">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   </a>
