@@ -182,7 +182,7 @@
 
 ------------------------------------------------------------
 
-3. WPF 통한 MRP 제작중
+3. WPF 통한 MRP 제작
 - https://github.com/WhiteHair-H/MiniProject_SimpleMRP
 
 <p align='left'>
