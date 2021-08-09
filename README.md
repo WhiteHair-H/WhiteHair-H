@@ -161,11 +161,11 @@
 
 ## 포트폴리오
 1. .net 통한 홈페이지 제작
-- https://github.com/WhiteHair-H/StudyAspNet21
+- https://github.com/WhiteHair-H/Asp.net
 
 <p align='left'>
   <a href="https://github.com/WhiteHair-H">
-    <img width="70%" height="50%" src="https://github.com/WhiteHair-H/StudyAspNet21/blob/main/PortFolio_Player%26Picture/Player/Login.gif">
+    <img width="70%" height="50%" src="https://github.com/WhiteHair-H/Asp.net/blob/main/MVCPortFolio/IntroFile/GIF/Complete.gif">
   </a>
 </p>
 
